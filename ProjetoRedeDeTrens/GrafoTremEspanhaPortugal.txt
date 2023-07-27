@@ -1,0 +1,63 @@
+Madrid         Salamanca       220  150
+Salamanca      Guarda          160   90
+Guarda         Viseu            76   80
+Madrid         Albacete        257  280
+Madrid         Toledo           72  205
+Madrid         Valladolid      189  140
+Toledo         Cordoba         344  210
+Cordoba        Sevilha         140  220
+Sevilha        Huelva           94  201
+Sevilha        Cadiz           121   80
+Sevilha        Caceres         267  120
+Caceres        Toledo          260  110
+Caceres        Castelo Branco  141   90
+Pombal         Castelo Branco  137  150
+Zaragoza       Lleida          150  210
+Lleida         Tarragona       100  205
+Tarragona      Barcelona        99  208
+Tarragona      Valencia        258  250
+Valencia       Albacete        188  270
+Albacete       Murcia          144  230
+Murcia         Cartagena        50  201
+Valencia       Alicante        179  105
+Alicante       Murcia           82   80
+Murcia         Lorca            70   60
+Zaragoza       Valencia        308   93
+Zaragoza       Pau             235   60
+Pau            Toulouse        195   90
+Toulouse       Montpellier     246   76
+Zaragoza       Logrono         170  100
+Logrono        San Sebastian   167   75
+Logrono        Bilbao          136   77
+Logrono        Burgos          104   50
+Bilbao         Burgos          158   70
+Burgos         Valladolid      136   50
+Valladolid     Santander       244   66
+Valladolid     Leon            137   95
+Leon           Oviedo          125   83
+Leon           Ponferrada      113   75
+Oviedo         Gijon            30   73
+Loule          Lisboa          265   75
+Lisboa         Pombal          140   70
+Pombal         Coimbra          36   96
+Coimbra        Viseu            92   78
+Coimbra        Porto           107  107
+Porto          Braga            46   42
+Braga          Vigo             81   18
+Vigo           Ourense          71   42
+Ourense        Ponferrada      100   48
+Vigo           Santiago de C.   72   48
+Santiago de C. A Coruna         64   67
+Santiago de C. Ourense          82  136
+A Coruna       Lugo             80   47
+Lugo           Ponferrada       93   71
+Cordoba        Jaen            120   73
+Cordoba        Malaga          168  203
+Malaga         Granada          88   50
+Jaen           Granada          67   53
+Granada        El Ejido        113   37
+Madrid         Guadalajara      68   45
+Guadalajara    Zaragoza        257   72
+Barcelona      Mataro           31   31
+Mataro         Girona           80   44
+Girona         Perpignan        93   38

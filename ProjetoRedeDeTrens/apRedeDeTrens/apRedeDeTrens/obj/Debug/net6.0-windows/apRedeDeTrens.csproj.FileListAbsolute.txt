@@ -1,0 +1,83 @@
+C:\Users\u22139\Desktop\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.exe
+C:\Users\u22139\Desktop\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.deps.json
+C:\Users\u22139\Desktop\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.runtimeconfig.json
+C:\Users\u22139\Desktop\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.dll
+C:\Users\u22139\Desktop\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.pdb
+C:\Users\u22139\Desktop\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.csproj.AssemblyReference.cache
+C:\Users\u22139\Desktop\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.FrmMapeamentoCidades.resources
+C:\Users\u22139\Desktop\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.Properties.Resources.resources
+C:\Users\u22139\Desktop\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.csproj.GenerateResource.cache
+C:\Users\u22139\Desktop\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u22139\Desktop\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.AssemblyInfoInputs.cache
+C:\Users\u22139\Desktop\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.AssemblyInfo.cs
+C:\Users\u22139\Desktop\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.csproj.CoreCompileInputs.cache
+C:\Users\u22139\Desktop\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.dll
+C:\Users\u22139\Desktop\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\refint\apRedeDeTrens.dll
+C:\Users\u22139\Desktop\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.pdb
+C:\Users\u22139\Desktop\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.genruntimeconfig.cache
+C:\Users\u22139\Desktop\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\ref\apRedeDeTrens.dll
+Z:\EDI\projetos\projetoII\parteI\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.exe
+Z:\EDI\projetos\projetoII\parteI\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.deps.json
+Z:\EDI\projetos\projetoII\parteI\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.runtimeconfig.json
+Z:\EDI\projetos\projetoII\parteI\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.dll
+Z:\EDI\projetos\projetoII\parteI\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.pdb
+Z:\EDI\projetos\projetoII\parteI\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.csproj.AssemblyReference.cache
+Z:\EDI\projetos\projetoII\parteI\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.FrmMapeamentoCidades.resources
+Z:\EDI\projetos\projetoII\parteI\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.Properties.Resources.resources
+Z:\EDI\projetos\projetoII\parteI\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.csproj.GenerateResource.cache
+Z:\EDI\projetos\projetoII\parteI\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.GeneratedMSBuildEditorConfig.editorconfig
+Z:\EDI\projetos\projetoII\parteI\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.AssemblyInfoInputs.cache
+Z:\EDI\projetos\projetoII\parteI\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.AssemblyInfo.cs
+Z:\EDI\projetos\projetoII\parteI\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.csproj.CoreCompileInputs.cache
+Z:\EDI\projetos\projetoII\parteI\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.dll
+Z:\EDI\projetos\projetoII\parteI\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\refint\apRedeDeTrens.dll
+Z:\EDI\projetos\projetoII\parteI\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.pdb
+Z:\EDI\projetos\projetoII\parteI\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.genruntimeconfig.cache
+Z:\EDI\projetos\projetoII\parteI\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\ref\apRedeDeTrens.dll
+C:\Users\u22124\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.csproj.AssemblyReference.cache
+C:\Users\u22124\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.FrmMapeamentoCidades.resources
+C:\Users\u22124\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.Properties.Resources.resources
+C:\Users\u22124\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.csproj.GenerateResource.cache
+C:\Users\u22124\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u22124\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.AssemblyInfoInputs.cache
+C:\Users\u22124\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.AssemblyInfo.cs
+C:\Users\u22124\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.csproj.CoreCompileInputs.cache
+C:\Users\u22124\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.dll
+C:\Users\u22124\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\refint\apRedeDeTrens.dll
+C:\Users\u22124\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.exe
+C:\Users\julia\OneDrive\Área de Trabalho\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.deps.json
+C:\Users\julia\OneDrive\Área de Trabalho\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.runtimeconfig.json
+C:\Users\julia\OneDrive\Área de Trabalho\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.dll
+C:\Users\julia\OneDrive\Área de Trabalho\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Área de Trabalho\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.FrmMapeamentoCidades.resources
+C:\Users\julia\OneDrive\Área de Trabalho\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.Properties.Resources.resources
+C:\Users\julia\OneDrive\Área de Trabalho\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Área de Trabalho\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Área de Trabalho\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Área de Trabalho\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.dll
+C:\Users\julia\OneDrive\Área de Trabalho\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\refint\apRedeDeTrens.dll
+C:\Users\julia\OneDrive\Área de Trabalho\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Área de Trabalho\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\ref\apRedeDeTrens.dll
+C:\Users\u22139\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.exe
+C:\Users\u22139\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.deps.json
+C:\Users\u22139\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.runtimeconfig.json
+C:\Users\u22139\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.dll
+C:\Users\u22139\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\bin\Debug\net6.0-windows\apRedeDeTrens.pdb
+C:\Users\u22139\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.csproj.AssemblyReference.cache
+C:\Users\u22139\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.FrmMapeamentoCidades.resources
+C:\Users\u22139\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.Properties.Resources.resources
+C:\Users\u22139\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.csproj.GenerateResource.cache
+C:\Users\u22139\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u22139\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.AssemblyInfoInputs.cache
+C:\Users\u22139\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.AssemblyInfo.cs
+C:\Users\u22139\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.csproj.CoreCompileInputs.cache
+C:\Users\u22139\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.dll
+C:\Users\u22139\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\refint\apRedeDeTrens.dll
+C:\Users\u22139\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.pdb
+C:\Users\u22139\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\apRedeDeTrens.genruntimeconfig.cache
+C:\Users\u22139\Downloads\22124_22139_Proj2\apRedeDeTrens\apRedeDeTrens\obj\Debug\net6.0-windows\ref\apRedeDeTrens.dll
